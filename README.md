@@ -1,136 +1,135 @@
-# 🌟 Hey, I'm Yang! 
+# 👋 Hi, I'm Yang! 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Code+%7C+Create+%7C+Innovate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Learning+to+Code;Exploring+AI+Tools;Practicing+Vibe+Coding;One+Step+at+a+Time)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TONwisdomyang&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/TONwisdomyang?label=Follow&style=social)](https://github.com/TONwisdomyang)
 
 </div>
 
-## 🚀 About Me
+## 🌱 About Me
 
 ```python
-class Developer:
+class LearningDeveloper:
     def __init__(self):
         self.name = "Yang"
-        self.role = "Full Stack Developer"
+        self.status = "Coding Newbie 🐣"
         self.language_spoken = ["zh-TW", "en-US"]
-        self.code = {
-            "frontend": ["JavaScript", "React", "Vue", "HTML", "CSS"],
-            "backend": ["Python", "Node.js", "FastAPI", "Express"],
-            "database": ["MySQL", "MongoDB", "Redis"],
-            "tools": ["Git", "Docker", "VS Code", "Linux"]
+        self.currently_learning = {
+            "basics": ["HTML", "CSS", "JavaScript", "Python"],
+            "exploring": ["Git", "GitHub", "VS Code"],
+            "practicing_with": ["Claude Code", "AI-assisted coding"],
+            "method": "Vibe Coding - 感受式編程"
         }
-        self.architecture = ["SPA", "MVC", "Serverless", "Microservices"]
+        self.mindset = "每天進步一點點"
         
-    def current_status(self):
+    def current_journey(self):
         return {
-            "learning": "Advanced AI/ML concepts",
-            "building": "Cool projects that matter",
-            "collaborating": "Open source contributions"
+            "focus": "Learning fundamentals with AI assistance",
+            "goal": "Building my first real projects",
+            "approach": "Learning by doing, making mistakes, and improving"
         }
     
     def say_hello(self):
-        print("Thanks for stopping by! Let's build something amazing together! 🚀")
+        print("Hi! I'm new to coding but excited to learn! 🌟")
+        print("Currently experimenting with Claude Code and loving it!")
 
-me = Developer()
+me = LearningDeveloper()
 me.say_hello()
 ```
 
-## 🛠️ Tech Stack
+## 📚 What I'm Learning
 
 <div align="center">
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+### Fundamentals
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Tools I'm Getting Familiar With
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20Code-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
+## 🎯 My Learning Approach: Vibe Coding
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TONwisdomyang&show_icons=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONwisdomyang&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TONwisdomyang&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=TONwisdomyang&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TONwisdomyang&repo=awesome-project&theme=radical&hide_border=true)](https://github.com/TONwisdomyang/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TONwisdomyang&repo=weather-app&theme=radical&hide_border=true)](https://github.com/TONwisdomyang/weather-app)
-
-</div>
-
-## 🌱 Current Focus
+> **"Vibe Coding"** - 感受式編程：透過 AI 助手的協助，專注在理解概念和感受程式碼的邏輯流動，而不是死記語法。
 
 ```javascript
-const currentFocus = {
-    learning: [
-        "Advanced Machine Learning concepts",
-        "Cloud Architecture (AWS/GCP)",
-        "Blockchain Development",
-        "DevOps best practices"
+const myLearningStyle = {
+    philosophy: "Code with feeling, not just syntax",
+    tools: ["Claude Code", "AI pair programming"],
+    benefits: [
+        "Focus on understanding concepts",
+        "Less frustration with syntax errors", 
+        "More time for creative problem solving",
+        "Learning by exploring and experimenting"
     ],
-    building: [
-        "AI-powered applications",
-        "Scalable web services",
-        "Open source contributions"
-    ],
-    goals: [
-        "Contribute to major open source projects",
-        "Build products that impact lives",
-        "Share knowledge through tech talks"
-    ]
+    currentExperiment: "Building this GitHub profile with Claude Code!"
 };
 
-console.log("Always coding, always learning! 🚀");
+console.log("Every expert was once a beginner! 🚀");
 ```
 
-## 📈 Coding Activity
+## 📊 My GitHub Journey
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TONwisdomyang&show_icons=true&theme=vue&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONwisdomyang&layout=compact&theme=vue&hide_border=true"/>
 
-## 💭 Random Dev Quote
+</div>
+
+## 🌟 Learning Projects
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> 🚧 **Work in Progress** - Building my first projects step by step!
+
+*Coming soon: My first web app, built with the help of AI coding assistants*
+
+</div>
+
+## 🎓 Current Learning Goals
+
+```python
+learning_goals = {
+    "short_term": [
+        "Master HTML/CSS basics",
+        "Build my first interactive webpage", 
+        "Get comfortable with Git workflows",
+        "Create a simple Python script"
+    ],
+    "medium_term": [
+        "Build a personal portfolio site",
+        "Learn responsive web design",
+        "Explore JavaScript frameworks",
+        "Contribute to open source projects"
+    ],
+    "mindset": [
+        "Embrace beginner's mind",
+        "Ask questions without fear",
+        "Celebrate small wins",
+        "Learn from every mistake"
+    ]
+}
+
+print("The journey of a thousand commits begins with a single 'Hello World'! 💻")
+```
+
+## 💭 Coding Philosophy
+
+<div align="center">
+
+*"The best way to learn programming is to program, and the best way to program is with curiosity and patience."*
+
+**🤖 AI-Assisted Learning**: Using tools like Claude Code to understand concepts, debug issues, and explore new ideas
+
+**🔄 Iterative Improvement**: Every commit is a step forward, every bug is a learning opportunity
 
 </div>
 
@@ -139,9 +138,8 @@ console.log("Always coding, always learning! 🚀");
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-k5508520@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k5508520@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+
+*Always happy to connect with fellow learners and experienced developers who don't mind helping a newbie! 😊*
 
 </div>
 
@@ -149,10 +147,10 @@ console.log("Always coding, always learning! 🚀");
 
 <div align="center">
 
-### 💡 *"Code is poetry written in logic"*
+### 🌱 *"Everyone you meet knows something you don't"*
 
-**⭐ Don't forget to star repositories you find interesting!**
+**⭐ Thanks for visiting my learning journey!**
 
-Made with ❤️ and lots of ☕
+Made with 🤖 Claude Code, ❤️ curiosity, and lots of ☕
 
 </div>
